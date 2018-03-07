@@ -12,4 +12,5 @@ SOURCES += main.cpp \
 HEADERS += \
     2d.h \
     tools.h \
-    1d.h
+    1d.h \
+    4d.h
